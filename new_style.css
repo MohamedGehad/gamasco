@@ -33,9 +33,21 @@
 .branshes {
   margin: auto;
   margin-top: -11px;
-  color: aqua;
+  color: #138e75;
 }
 .card-title-new {
   color: #1abc9c !important;
   font-weight: 900 !important;
+}
+
+.hospital {
+  font-weight: 800 !important;
+  margin-top: -15px;
+}
+
+.footerul {
+  font-weight: 800;
+}
+footer li u {
+  text-decoration: none !important;
 }
