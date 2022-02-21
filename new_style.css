@@ -51,3 +51,8 @@
 footer li u {
   text-decoration: none !important;
 }
+
+.team-home {
+  text-align: start;
+  margin-top: -92px;
+}
