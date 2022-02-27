@@ -56,3 +56,14 @@ footer li u {
   text-align: start;
   margin-top: -92px;
 }
+.team-image {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+    rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+.icon-caa {
+  width: 15px;
+  height: 15px;
+  font-size: 30px;
+  margin: 0px 17px;
+  size: 20px;
+}
